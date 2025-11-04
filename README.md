@@ -1,2 +1,5 @@
-# html_temel
-Web geliştirme öğrenme sürecimde hazırladığım örnek sayfalar.
+# HTML Temel Kodlarım
+
+Bu repoda HTML öğrenirken oluşturduğum temel sayfalar yer alıyor.  
+- Başlık, sıralı ve sırasız liste örnekleri
+- Deneme sayfa
